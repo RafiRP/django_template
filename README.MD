@@ -5,3 +5,5 @@
 - PoC - proof of concept
 - MVP - minimum value product
 - Product
+- DB - connetion
+- 
